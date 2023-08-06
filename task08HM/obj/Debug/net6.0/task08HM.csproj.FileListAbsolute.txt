@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\task08HM\bin\Debug\net6.0\task08HM.exe
+C:\Users\User\Desktop\C#\task08HM\bin\Debug\net6.0\task08HM.deps.json
+C:\Users\User\Desktop\C#\task08HM\bin\Debug\net6.0\task08HM.runtimeconfig.json
+C:\Users\User\Desktop\C#\task08HM\bin\Debug\net6.0\task08HM.dll
+C:\Users\User\Desktop\C#\task08HM\bin\Debug\net6.0\task08HM.pdb
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.dll
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\refint\task08HM.dll
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.pdb
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\task08HM.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\task08HM\obj\Debug\net6.0\ref\task08HM.dll

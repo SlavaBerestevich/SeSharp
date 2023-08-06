@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\task04HM\bin\Debug\net6.0\task04HM.exe
+C:\Users\User\Desktop\C#\task04HM\bin\Debug\net6.0\task04HM.deps.json
+C:\Users\User\Desktop\C#\task04HM\bin\Debug\net6.0\task04HM.runtimeconfig.json
+C:\Users\User\Desktop\C#\task04HM\bin\Debug\net6.0\task04HM.dll
+C:\Users\User\Desktop\C#\task04HM\bin\Debug\net6.0\task04HM.pdb
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.dll
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\refint\task04HM.dll
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.pdb
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\task04HM.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\task04HM\obj\Debug\net6.0\ref\task04HM.dll
