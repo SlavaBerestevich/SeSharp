@@ -35,10 +35,8 @@ else if (weekday == 6)
     Console.WriteLine("Суббота");
     Console.WriteLine("выходной");
 }
-else
+else if (weekday == 7)
 {
     Console.WriteLine("Воскресенье");
     Console.WriteLine("выходной");
 }
-
-
